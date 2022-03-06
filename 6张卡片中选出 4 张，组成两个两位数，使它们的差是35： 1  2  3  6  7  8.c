@@ -1,5 +1,6 @@
 //从下面的 6 张卡片中选出 4 张，组成两个两位数，使它们的差是35。你能想出几种选法？ 1  2  3  6  7  8
 #include<stdio.h>
+#include<conio.h>
 int ten(int x,int y)
 {
 	int sum=x*10+y;
